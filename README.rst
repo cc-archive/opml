@@ -18,4 +18,3 @@ files.  OPML is an XML-based format for describing outlines and is
 often used as an interchange format for subscription lists.  This
 package is intended as a light-weight, permissive parser.  It does
 very little validation of the incoming OPML.
-
